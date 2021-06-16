@@ -10,6 +10,10 @@ Inspired in [this tweet](https://twitter.com/Prathkum/status/1404446175709872134
 
 [Original Grammarly](https://www.grammarly.com)
 
+## Develop
+
+`npm start`
+
 ### LICENSE
 
 [MIT](./LICENSE)
