@@ -1,8 +1,12 @@
-body {
-  height: 100vh;
-  margin: 0;
-  display: grid;
-  place-content: center;
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+
+  text-align: center;
+
+  height: 100%;
 }
 
 h1 {
@@ -10,7 +14,12 @@ h1 {
 }
 
 input {
-  height: 100px;
-  font-size: 1.4rem;
-  place-content: center;
+  width: 100%;
+  padding: 12px 20px;
+  margin: 2% 0;
+  height: 60%;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
 }
