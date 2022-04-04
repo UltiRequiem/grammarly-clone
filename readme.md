@@ -7,7 +7,15 @@ The
 [HTML "spellcheck"](https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/spellcheck)
 attribute is used to check the spelling and grammar.
 
-> [Original Grammarly](https://grammarly.com)
+## Deploy
+
+### GH Pages 🐱
+
+https://grammarly.ultirequiem.com
+
+### Cloudflare Pages 👷‍♀️
+
+https://grammarly.pages.dev
 
 ## Support
 
