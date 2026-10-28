@@ -7,10 +7,6 @@ The
 [HTML "spellcheck"](https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/spellcheck)
 attribute is used to check the spelling and grammar.
 
-<img width="1114" height="467" alt="image" src="https://github.com/user-attachments/assets/6692fc39-90ff-4e99-99f2-15686e33ea3d" />
-
-2025 Updates: BRUH
-
 ## Deploy
 
 ### GH Pages 🐱
