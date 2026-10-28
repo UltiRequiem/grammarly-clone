@@ -15,23 +15,16 @@ attribute is used to check the spelling and grammar.
 
 ### GH Pages 🐱
 
-https://grammarly.ultirequiem.com
-
-### Cloudflare Pages 👷‍♀️
-
-https://grammarly.pages.dev
+https://ulti.js.org/grammarly-clone/
 
 ## Support
 
 Open an Issue, I will check it a soon as possible 👀
 
 If you want to hurry me up a bit
-[send me a tweet](https://twitter.com/UltiRequiem) 😆
+[send me a tweet](https://x.com/UltiRequiem) 😆
 
-Consider [supporting me on Patreon](https://patreon.com/UltiRequiem) if you like
-my work 🙏
-
-Don't forget to start the repo ⭐
+Don't forget to star the repo ⭐
 
 ## Authors
 
